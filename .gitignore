@@ -1,0 +1,13 @@
+# Archivos compilados (IntelliJ los vuelve a generar al ejecutar)
+out/
+*.class
+
+# Configuración local de IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
